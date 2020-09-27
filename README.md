@@ -1,4 +1,4 @@
-COVID-19 Data Analysis Project. 
+# COVID-19 Data Analysis Project. 
 
 Analyzed  COVID related data across five states in the United States. The data comprised of daily COVID cases along with the location,gender and other attributes and number of deaths occuring each day. 
 
